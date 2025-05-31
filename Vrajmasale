@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Instagram Website</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+    a.button {
+      display: inline-block;
+      padding: 12px 20px;
+      margin: 10px;
+      background-color: #e1306c;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello from Instagram!</h1>
+  <p>Follow me on my journey 📸</p>
+  <a href="https://www.instagram.com/yourhandle/" class="button">Instagram</a>
+  <a href="https://link-to-anything.com" class="button">My Portfolio</a>
+</body>
+</html>
